@@ -1,0 +1,54 @@
+main {
+  padding-top: 20px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 50px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: lightblue;
+}
+
+.one {
+  position: absolute;
+  top: 50;
+  left: 50;
+}
+
+.two {
+  position: absolute;
+  top: 20;
+  left: 20;
+}
+
+.three {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.four {
+  position: absolute;
+  top: 10;
+  left: 10;
+}
